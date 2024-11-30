@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "MXeDPQ5pnrsGvDhJRButIFSPI1UmlmkYExeTUtn5tSw=",
+  "Source": "ApiBanco",
+  "BasePath": "_content/ApiBanco",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

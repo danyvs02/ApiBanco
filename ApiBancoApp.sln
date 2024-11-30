@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiBanco", "ApiBanco\ApiBanco.csproj", "{31C3516A-E2DA-4083-BFF7-200A3D9CFCB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31C3516A-E2DA-4083-BFF7-200A3D9CFCB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31C3516A-E2DA-4083-BFF7-200A3D9CFCB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31C3516A-E2DA-4083-BFF7-200A3D9CFCB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31C3516A-E2DA-4083-BFF7-200A3D9CFCB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECD9C523-B745-4A48-9038-26B07DAA956F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAADFO8d0hWf0erfkv1ffVrtAAAAAACAAAAAAAQZgAAAAEAACAAAAD7i/W1BnmfUV7lh1eZEDedGvKEeSxnhr+QVlfmZNnpkAAAAAAOgAAAAAIAACAAAADW2+3aOc9agwawpQEwh+MkKc2r8oRLi2y0Ac68oGLGIYAAAAAiZvB/xl4EZZ/ygZDVfQlIFdc12FgayV7O+ZT8l92PHbpfE69mxphI4z0eYbetCDkJeZSF4qrtNV6FAL60D9NiPSRtv8ICyz0vHT7HGbXvtlE6/wAVDrsF0Wnj3b4runWM9Tz++YfohGvFXCaErWNjnqicEJ8pmu8u2E7N9kUcuUAAAAByRyULwK49w0Tft9AD0Gz1x14oRWlccQw0ab7CW4RuGrqJQsOZMxZOb3llIeELFk4CttmgRynsBnuQ1+CCubgH</EncryptedPassword>
+    <History>True|2024-11-26T17:09:04.7522417Z;True|2024-11-26T09:45:36.9664406-07:00;True|2024-11-25T22:24:53.7655716-07:00;True|2024-11-25T22:23:48.5247011-07:00;True|2024-11-25T22:21:38.8149089-07:00;True|2024-11-25T22:18:53.4431340-07:00;False|2024-11-25T22:18:18.3800953-07:00;False|2024-11-25T22:17:33.5189376-07:00;True|2024-11-25T20:12:43.3621061-07:00;True|2024-11-25T19:29:26.8110198-07:00;True|2024-11-25T19:04:29.2910671-07:00;True|2024-11-25T18:52:52.3730603-07:00;True|2024-11-25T18:37:35.3305816-07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ConexionSqlBanco">
+      <Value>Server=tcp:apisqlserver.database.windows.net,1433%3bInitial Catalog=Banco%3bPersist Security Info=False%3bUser ID=apiadmin%3bPassword=Tobby!.%400825%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
